@@ -6,8 +6,8 @@ We have used "Human Activity Recognition with Smartphones" dataset. Preprocessed
 ### Run 
 Three different statistical methods are applied for classification. To run the codes: 
 
-  python svm.py
+    python svm.py
 
-  python knn.py
+    python knn.py
 
-  python softmaxreg.py
+    python softmaxreg.py
